@@ -1,6 +1,7 @@
 {
     "name": "wa/sql",
     "description": "SQL Query Builder",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [

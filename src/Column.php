@@ -12,8 +12,8 @@ class Column
     private $type;
     private $size;
 
-    private $default = "DEFAULT NULL";
-    private $nullable = "NULL";
+    private $default;
+    private $nullable = "NOT NULL";
     private $autoIncrement;
     private $constraint;
 
